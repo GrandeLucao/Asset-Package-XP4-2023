@@ -1,6 +1,6 @@
 # Lucas Gabriel Francener
 
-## Ideia
+## O asset
     
     Pacote para IA de inimigos pre pronta
 
